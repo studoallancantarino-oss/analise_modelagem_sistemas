@@ -1,0 +1,55 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Página-1" id="214M0tSqYKIEWkhMJux5">
+    <mxGraphModel dx="1091" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Seuip6PtsFHF_iJxtbz3-25" edge="1" parent="1" source="Seuip6PtsFHF_iJxtbz3-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Seuip6PtsFHF_iJxtbz3-24" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Seuip6PtsFHF_iJxtbz3-1" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Usuário" vertex="1">
+          <mxGeometry height="60" width="30" x="60" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="Seuip6PtsFHF_iJxtbz3-13" edge="1" parent="1" source="Seuip6PtsFHF_iJxtbz3-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Seuip6PtsFHF_iJxtbz3-12" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Seuip6PtsFHF_iJxtbz3-16" edge="1" parent="1" source="Seuip6PtsFHF_iJxtbz3-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Seuip6PtsFHF_iJxtbz3-15" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Seuip6PtsFHF_iJxtbz3-11" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Atendente" vertex="1">
+          <mxGeometry height="60" width="30" x="60" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="Seuip6PtsFHF_iJxtbz3-12" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;verticalAlign=top;" value=". Realiza a abertura de ficha e cadastro de dados do paciente." vertex="1">
+          <mxGeometry height="70" width="169" x="151" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="Seuip6PtsFHF_iJxtbz3-15" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;verticalAlign=top;" value="&lt;div&gt;Marca, altera e desmarca consultas no sistema.&amp;nbsp;&amp;nbsp;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="141" x="151" y="405" as="geometry" />
+        </mxCell>
+        <mxCell id="Seuip6PtsFHF_iJxtbz3-19" edge="1" parent="1" source="Seuip6PtsFHF_iJxtbz3-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Seuip6PtsFHF_iJxtbz3-18" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Seuip6PtsFHF_iJxtbz3-21" edge="1" parent="1" source="Seuip6PtsFHF_iJxtbz3-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Seuip6PtsFHF_iJxtbz3-20" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Seuip6PtsFHF_iJxtbz3-23" edge="1" parent="1" source="Seuip6PtsFHF_iJxtbz3-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Seuip6PtsFHF_iJxtbz3-22" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Seuip6PtsFHF_iJxtbz3-17" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Médico&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="30" x="60" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="Seuip6PtsFHF_iJxtbz3-18" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;verticalAlign=top;" value="Acesso a fichas de paciente. Preenchimento de prontuario." vertex="1">
+          <mxGeometry height="70" width="160" x="140" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="Seuip6PtsFHF_iJxtbz3-20" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;verticalAlign=top;" value="faz pedidos de exames, checa os resultados, preenche diagnósticos.&amp;nbsp;" vertex="1">
+          <mxGeometry height="80" width="175" x="280" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="Seuip6PtsFHF_iJxtbz3-22" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;verticalAlign=top;" value="Prescreve medicamentos, insere atestados, realiza fechamento de prontuário." vertex="1">
+          <mxGeometry height="80" width="169" x="140" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="Seuip6PtsFHF_iJxtbz3-24" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;verticalAlign=top;" value="Realiza cadastro, Faz abertura de atendimento." vertex="1">
+          <mxGeometry height="60" width="141" x="170" y="160" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
